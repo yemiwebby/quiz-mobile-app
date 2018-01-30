@@ -1,3 +1,2 @@
 # quiz-mobile-app
-
-A simple multiple choice app that will be built using Symfony.
+A simple multiple choice application and API that will be built using Symfony.
